@@ -10,17 +10,11 @@
 
 <br />
 
-### Demo Screenshots
+## Demo Screenshots
 
 ![Filmlane Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Contact
+## Contact
 
 If you want to contact with me you can reach me at [LinkedIn](https://linkedin.com/in/liam-thomas21/).
 
