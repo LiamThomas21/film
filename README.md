@@ -20,22 +20,6 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Run Locally
-
-To run **Filmlane** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/liamthomas21/filmlane.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/liamthomas21/filmlane.git
-```
-
 ### Contact
 
 If you want to contact with me you can reach me at [LinkedIn](https://linkedin.com/in/liam-thomas21/).
